@@ -21,6 +21,8 @@ while (isNaN(num2)){
     num2 = parseInt(prompt("Please, enter the number 2: "));
 }
 
+// que pasa con la division cuando se divide por cero, como manejamos ese error...
+
 
 console.log("--------- Exercise 2 ---------");
 console.log(num1 + " + " + num2 + " = " + add);
